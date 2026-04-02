@@ -1,0 +1,14 @@
+{
+    "country": "Russia",
+    "year": 2026,
+    "expert_comparisons": {
+        "inst_vs_econ": 3,
+        "inst_vs_soc": 5,
+        "econ_vs_soc": 3
+    },
+    "current_metrics": {
+        "institutional_strength": 85,
+        "economic_adaptability": 45,
+        "social_cohesion": 30
+    }
+}
